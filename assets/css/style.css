@@ -102,14 +102,15 @@
     font-size: 15px;
     line-height: 1.4em;
     text-transform: uppercase;
+    font-weight: bold;
     letter-spacing: 0.15em;
     color: rgba(0, 0, 0, 0.8);
   }
   .walkthrough .walkthrough-body p {
     line-height: 1.6em;
-    font-size: 13px;
-    margin-top: 16px;
-    padding-top: 0;
+    font-size: 16px;
+    margin-top: 25px;
+    padding-top: 1;
     color: rgba(255, 255, 255, 0.8);
   }
   .walkthrough .walkthrough-pagination {
