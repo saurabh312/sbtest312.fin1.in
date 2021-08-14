@@ -3933,7 +3933,6 @@
 		
 		
 	}
-
 	.ml16 {
 		color: #402d2d;
 		padding: 40px 0;
@@ -3945,10 +3944,9 @@
 	  }
 	  
 	  .ml16 .letter {
-		display: inline;
+		display: inline-flex;
 		line-height: 1em;
 	  }
-
 
 
 .bannergradient-text {
